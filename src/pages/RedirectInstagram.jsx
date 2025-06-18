@@ -9,16 +9,12 @@ export default function RedirectInstagram() {
   return (
     <div
       style={{
-        minHeight: "100vh",
+       
         background: "#000",
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        color: "#fff",
-        fontFamily: "sans-serif",
+    
       }}
     >
-      <h1>Redirecionando para o Instagram...</h1>
+    
     </div>
   );
 }
